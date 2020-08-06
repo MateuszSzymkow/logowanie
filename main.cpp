@@ -15,7 +15,7 @@ int main()
     }
     else
     {
-        cout<<"Cos zjebales :/";
+        cout<<"Cos poszlo nie tak :/";
     }
 
 
